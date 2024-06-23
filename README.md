@@ -99,7 +99,7 @@ Special thanks to the open-source community for providing the tools and librarie
 
 ### Visual Representation
 
-![App Interface](docs/app_interface.png)
+![App Interface](https://github.com/kalivarun/WIFI_Dev_Remote/blob/main/Remote_10.png)
 
 The above image shows the layout of the mobile application interface. The buttons are mapped to specific game controls, allowing for a seamless gaming experience.
 
