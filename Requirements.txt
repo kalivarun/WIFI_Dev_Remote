@@ -1,6 +1,7 @@
-pyautogui  
 ctypes
 webbrowser
-smtplib
-ssl
-kivy
+kivy==2.1.0
+pyautogui==0.9.53
+pydroid3==1.0.0  # Update with the correct version if needed
+smtplib==0.1.0  # smtplib is part of Python's standard library, typically doesn't require installation
+ssl==0.1.0  # ssl is part of Python's standard library, typically doesn't require installation
